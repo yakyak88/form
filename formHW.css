@@ -38,7 +38,8 @@ h2 {
 .kaftor {
   color: white;
   background-color: rgb(6, 77, 6);
-  width: 85px;
+  width: 200px;
+  margin-left: 27%;
 
   height: 30px;
   font-family: sans-serif;
@@ -46,10 +47,9 @@ h2 {
   border: dotted 3px silver;
 }
 form {
-  border: solid;
+  border: ridge rgb(6, 77, 6) 6px;
   padding: 10px;
   margin-right: 900px;
   background-color: silver;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
